@@ -230,6 +230,7 @@ class Generator {
             Triple("es", "submanga", "https://submanga.online"),
             Triple("es", "Mangadoor", "https://mangadoor.com"),
             Triple("es", "Mangas.pw", "https://mangas.pw"),
+            Triple("it", "Hasta Reader", "https://hastareader.com/slide/"),
             //NOTE: THIS SOURCE CONTAINS A CUSTOM LANGUAGE SYSTEM (which will be ignored)!
             Triple("other", "HentaiShark", "https://www.hentaishark.com"))
             //Now uses wpmanga
